@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"https://epg.aptv.app/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://ghfast.top/raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV4k-light.png" group-title="4k" ,CCTV-4K 超高清
 http://192.168.5.1:8686/udp/239.111.205.40:5140
 #EXTINF:-1 group-title="🔥[三网3]央卫视直播" tvg-name="CCTV-8K超高清" tvg-logo="https://epg.112114.xyz/logo/CCTV-8K超高清.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-8K超高清
@@ -14,7 +14,7 @@ http://192.168.5.1:8686/udp/239.111.205.104:5140
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视4K.png" group-title="4k" ,北京卫视4K
 http://192.168.5.1:8686/udp/239.111.205.51:5140
 #EXTINF:-1 group-title="🔮港澳台直播" tvg-name="TVB星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVB星河
-http://push.cdn1.hls123.de:8080/streams/hbiwgswysds/index.m3u8
+https://cdn.qd.je/163189/xinghe
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道" ,CCTV-1 综合
 http://192.168.5.1:8686/udp/239.112.205.59:5140
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道" ,CCTV-2 财经
@@ -103,11 +103,11 @@ http://192.168.5.1:8686/udp/239.112.205.141:5140
 http://192.168.5.1:8686/udp/239.111.205.19:5140
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
-http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
+https://iptv.1989.click/phoenix/k55px5?token=5feacb167e9d73f4404adef65765f2e2ff16f373993c1732
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
-http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
+https://iptv.1989.click/phoenix/u7zf62?token=5feacb167e9d73f4404adef65765f2e2ff16f373993c1732
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
-http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
+https://iptv.1989.click/phoenix/fb4nkz?token=5feacb167e9d73f4404adef65765f2e2ff16f373993c1732
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="卫视频道",北京纪实科教
 http://192.168.5.1:8686/udp/239.111.205.55:5140
 #EXTINF:-1 tvg-id="河北" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/河北4K.png" group-title="4K频道",河北4K

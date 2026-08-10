@@ -1,3 +1,6 @@
 # fpiptv
 fp
-支持支持<img width="1080" height="1434" alt="壁纸_ 阿尼亚手捧柠檬香 柠檬酸涩阿尼亚尝_1_锦鲤💰_来自小红书网页版" src="https://github.com/user-attachments/assets/724ead3d-a895-4ff9-9fa7-c3ddaa7c559f" />
+感谢订阅
+
+
+<img width="600" height="756" alt="f26166061d950a7ba03ed66207d162d9f3d3c9f3" src="https://github.com/user-attachments/assets/6f6db85d-411a-46b5-bec6-790604ced9fb" />

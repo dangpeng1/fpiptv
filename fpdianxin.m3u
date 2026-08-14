@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"https://epg.aptv.app/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://ghfast.top/raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV4k-light.png" group-title="4k" ,CCTV-4K 超高清
 http://192.168.5.1:8686/udp/239.111.205.40:5140?fcc=113.136.29.140:8027
-#EXTINF:-1 group-title="🔥[三网3]央卫视直播" tvg-name="CCTV-8K超高清" tvg-logo="https://epg.112114.xyz/logo/CCTV-8K超高清.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-8K超高清
-http://192.151.150.154/live/cctv8k.m3u8?fcc=113.136.29.140:8027
+#EXTINF:-1 tvg-name="CCTV-8K超高清" tvg-logo="https://epg.112114.xyz/logo/CCTV-8K超高清.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-8K超高清
+http://107.150.52.50:82/live/cctv8k.m3u8?fcc=113.136.29.140:8027
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="4k" ,CCTV-16 奥林匹克 4K
 http://192.168.5.1:8686/udp/239.111.205.134:5140?fcc=113.136.29.140:8027
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="4k",爱上4K

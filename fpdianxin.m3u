@@ -53,17 +53,17 @@ http://192.168.5.1:8686/udp/239.112.205.211:5140?fcc=113.136.29.140:8027
 http://192.168.5.1:8686/udp/239.111.205.83:5140?fcc=113.136.29.140:8027
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4美洲.png" group-title="央视频道",CCTV4美洲
 http://192.168.5.1:8686/udp/239.111.205.84:5140?fcc=113.136.29.140:8027
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-name="CGTN纪录" group-title="央视IPV4",CGTN纪录
+#EXTINF:-1 tvg-name="CGTN纪录"  tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视频道",CGTN纪录
 http://192.168.5.1:8686/udp/239.111.205.32:5140?fcc=113.136.29.140:8027
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN西班牙语
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频道",CGTN西班牙语
 http://192.168.5.1:8686/udp/239.111.205.33:5140?fcc=113.136.29.140:8027
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN法语
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频道",CGTN法语
 http://192.168.5.1:8686/udp/239.111.205.34:5140?fcc=113.136.29.140:8027
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN俄语
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频道",CGTN俄语
 http://192.168.5.1:8686/udp/239.110.205.117:7808?fcc=113.136.29.140:8027
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN阿拉伯语
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频道",CGTN阿拉伯语
 http://192.168.5.1:8686/udp/239.110.205.118:7804?fcc=113.136.29.140:8027
-#EXTINF:-1 tvg-name="CGTN英文纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN英文纪录
+#EXTINF:-1 tvg-name="CGTN英文纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频道",CGTN英文纪录
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视频道",世界地理
 http://192.168.5.1:8686/rtp/239.111.205.111:5140?fcc=113.136.29.140:8027
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视频道",风云剧场
@@ -119,7 +119,7 @@ https://cdn6.cc.cd/163189/fhzx?fcc=113.136.29.140:8027
 https://cdn6.cc.cd/163189/fhhk?fcc=113.136.29.140:8027
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="卫视频道",北京纪实科教
 http://192.168.5.1:8686/udp/239.111.205.55:5140?fcc=113.136.29.140:8027
-#EXTINF:-1 tvg-id="河北" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/河北4K.png" group-title="4K频道",河北4K
+#EXTINF:-1 tvg-id="河北" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/河北4K.png" group-title="4K",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8?fcc=113.136.29.140:8027
 #http://8.138.7.223/tv/api.php?id=hebtv4k?fcc=113.136.29.140:8027
 #EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/苏州4K.png" group-title="卫视频道",苏州4K
